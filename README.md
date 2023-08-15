@@ -11,7 +11,7 @@ Proyecto React que consiste básicamente en consumir la API de Marvel a través 
 
 ### Clonar el repositorio del proyecto
 
-    $git clone https://github.com/lgprojas/react-fetch-api-marvel.git
+    $ git clone https://github.com/lgprojas/react-fetch-api-marvel.git
 
 Para correr el proyecto puedes ejecutar:
 
