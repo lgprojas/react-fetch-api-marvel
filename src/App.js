@@ -42,7 +42,7 @@ function App() {
         {paginar.map((per) => (
           <div className="col-12 mt-2 d-flex justify-content-center" key={per.id}>
             <div className="card" style={{width: "90%", height: "350px"}}>
-              <div className='text-center' style={{width: "auto", height: "200px", margin: "auto"}}>
+              <div className='text-center p-2' style={{width: "auto", height: "200px", margin: "auto"}}>
                 <img src={`${per.thumbnail.path}.${per.thumbnail.extension}`} className="card-img-top img-fluid" alt="..." style={{width: "auto", height: "90%", borderRadius: "10px"}}/>
               </div>
               <div className="card-body text-center">
